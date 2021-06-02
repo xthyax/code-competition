@@ -1,0 +1,7 @@
+*.csv
+*.xlsx
+*.zip
+*.pth
+*.pyc
+*.txt
+*.json
